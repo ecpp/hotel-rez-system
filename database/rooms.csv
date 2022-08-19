@@ -1,0 +1,6 @@
+hotel_name,room_number,price,max_people,is_available
+Hotel London,1,100,2,true
+Hotel London,2,200,2,true
+Hotel Berlin,1,300,2,true
+Hotel Berlin,2,400,2,true
+Hotel Berlin,5,500,2,true
